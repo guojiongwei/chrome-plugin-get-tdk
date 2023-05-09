@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "获取页面TDK",
+  "version": "1.0.0",
+  "description": "Chrome插件学习，获取当前页面TDK",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
